@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdulRahimann)
 # Hi there, I'm Abdul Rahiman 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AbdulRahimann&color=blue)](https://github.com/AbdulRahimann)
+
 
 Engineering student passionate about software design, embedded systems, microcontrollers, and full-stack web development.
 
