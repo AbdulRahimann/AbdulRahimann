@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdulRahimann)
-# Hi there, I'm Abdul Rahiman 👋
+# Hi there, I'm Abdul Rahiman 
 
 
 
